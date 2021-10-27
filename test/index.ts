@@ -1,2 +1,2 @@
-const n: number = 25
+const n: number = 26
 const a: string = '123333'
